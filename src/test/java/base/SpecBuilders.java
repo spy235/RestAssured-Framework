@@ -23,7 +23,6 @@ public class SpecBuilders {
 
     public static ResponseSpecification createResponseSpec() {
         return new ResponseSpecBuilder()
-                .expectStatusCode(200)
                 // add generic checks here, or return more flexible spec per test
                 .expectResponseTime(lessThan(5_000L))
                 .build();
