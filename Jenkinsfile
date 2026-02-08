@@ -11,7 +11,7 @@ pipeline {
         }
         stage('Run Tests') {
             steps {
-                sh "mvn clean test -DbaseUrl=${params.baseUrl}"
+                bat "mvn clean test -DbaseUrl=${params.baseUrl}"
             }
         }
         stage('Publish Report') {
