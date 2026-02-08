@@ -1,17 +1,14 @@
-````markdown
 # RestAssured-Framework
 
-**Repository:** [spy235/RestAssured-Framework](https://github.com/spy235/RestAssured-Framework)
-
-A modern **API test automation framework** built with **Java**, **REST Assured**, and **Cucumber BDD**.  
-It provides reusable request/response specifications, structured endpoint classes, and rich reporting with **Extent Reports** and **Allure**.
+A modern **API test automation framework** built with **Java** and **REST Assured**.  
+It provides reusable request/response specifications, structured endpoint classes, and rich reporting with **Extent Reports**.
 
 ---
 
 ## 🚀 Project Purpose
 
 This framework is designed for automated testing of RESTful APIs in a structured, maintainable, and reusable way.  
-It combines **BDD-style tests** with **code-driven tests** for flexible test automation.
+**code-driven tests** for flexible test automation.
 
 ---
 
