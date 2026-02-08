@@ -114,12 +114,3 @@ allure serve target/allure-results
 * [TestNG](https://testng.org/doc/)
 * [Extent Reports](https://extentreports.com/)
 * [Allure Report](https://docs.qameta.io/allure/)
-
-```
-
----
-
-If you want, I can also make a **shorter, visually appealing version with badges** like build status, Maven, and coverage for GitHub. This is great if you want your repo to look professional.  
-
-Do you want me to do that?
-```
